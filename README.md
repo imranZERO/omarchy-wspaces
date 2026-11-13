@@ -7,7 +7,7 @@ A lightweight Omarchy bar widget: workspace numbers with the icons of the apps o
 ## Install
 
 ```bash
-omarchy plugin add https://github.com/imranZERO/wspaces --enable
+omarchy plugin add https://github.com/imranZERO/omarchy-wspaces --enable
 ```
 
 It is placed in the center of the bar. To move it:
