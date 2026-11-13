@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "imranzero.wspaces",
+  "name": "Wspaces",
+  "version": "0.1.0",
+  "author": "imranzero",
+  "license": "MIT",
+  "description": "Workspace numbers with the icons of the apps open on each",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "Wspaces.qml" },
+  "barWidget": {
+    "category": "Compositor",
+    "defaultSection": "center"
+  }
+}
