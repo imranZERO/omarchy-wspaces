@@ -10,10 +10,10 @@ A lightweight Omarchy bar widget: workspace numbers with the icons of the apps o
 omarchy plugin add https://github.com/imranZERO/omarchy-wspaces --enable
 ```
 
-It is placed in the center of the bar. To move it:
+It is placed on the left of the bar. To move it:
 
 ```bash
-omarchy bar move imranzero.wspaces --section left
+omarchy bar move imranzero.wspaces --section center
 ```
 
 No external dependencies: it uses only Omarchy, Hyprland and Quickshell, which ship with Omarchy.
